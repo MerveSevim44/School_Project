@@ -1,0 +1,16 @@
+C:\Users\merve\source\repos\School\School\bin\Debug\School.exe.config
+C:\Users\merve\source\repos\School\School\bin\Debug\School.exe
+C:\Users\merve\source\repos\School\School\bin\Debug\School.pdb
+C:\Users\merve\source\repos\School\School\obj\Debug\School.csproj.AssemblyReference.cache
+C:\Users\merve\source\repos\School\School\obj\Debug\School.Form1.resources
+C:\Users\merve\source\repos\School\School\obj\Debug\School.Properties.Resources.resources
+C:\Users\merve\source\repos\School\School\obj\Debug\School.csproj.GenerateResource.cache
+C:\Users\merve\source\repos\School\School\obj\Debug\School.csproj.CoreCompileInputs.cache
+C:\Users\merve\source\repos\School\School\obj\Debug\School.exe
+C:\Users\merve\source\repos\School\School\obj\Debug\School.pdb
+C:\Users\merve\source\repos\School\School\obj\Debug\School.StudentNotes.resources
+C:\Users\merve\source\repos\School\School\obj\Debug\School.clubs.resources
+C:\Users\merve\source\repos\School\School\obj\Debug\School.ProgressTeacher.resources
+C:\Users\merve\source\repos\School\School\obj\Debug\School.Lessons.resources
+C:\Users\merve\source\repos\School\School\obj\Debug\School.StudentList.resources
+C:\Users\merve\source\repos\School\School\obj\Debug\School.Exams.resources
